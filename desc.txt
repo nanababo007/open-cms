@@ -1,3 +1,10 @@
 [개발환경]
 전자정부 개발환경 : 3.9 버전
 jre 버전 : jre1.8.0_251
+
+[개발자 정보]
+- open-pms
+- email : nanababo007@naver.com
+- website : http://korsoft.net
+- blog1 : https://blog.naver.com/nanababo007
+- blog2 : http://pgm-progger.blogspot.com/
